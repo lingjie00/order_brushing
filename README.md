@@ -1,4 +1,4 @@
-# order_brushing
+# Order Brushing
 Detecting abnormal user behaviour, Shopee Code League 2020
 
 People think of creative way to cheat the system.
